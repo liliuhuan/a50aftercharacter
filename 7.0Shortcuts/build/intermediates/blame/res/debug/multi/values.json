@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "D:\\github\\50aftercharacter\\7.0Shortcuts\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "D:\\github\\50aftercharacter\\7.0Shortcuts\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 815,
+                        "endColumn": 59,
+                        "endOffset": 870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endColumn": 61,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "D:\\github\\50aftercharacter\\7.0Shortcuts\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 876,
+                        "endColumn": 61,
+                        "endOffset": 933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endColumn": 57,
+                    "endOffset": 230
+                },
+                "from": {
+                    "file": "D:\\github\\50aftercharacter\\7.0Shortcuts\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 756,
+                        "endColumn": 57,
+                        "endOffset": 809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 235,
+                    "endColumn": 52,
+                    "endOffset": 283
+                },
+                "from": {
+                    "file": "D:\\github\\50aftercharacter\\7.0Shortcuts\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1059,
+                        "endColumn": 52,
+                        "endOffset": 1107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 288,
+                    "endColumn": 50,
+                    "endOffset": 334
+                },
+                "from": {
+                    "file": "D:\\github\\50aftercharacter\\7.0Shortcuts\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1113,
+                        "endColumn": 50,
+                        "endOffset": 1159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 339,
+                    "endColumn": 66,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "D:\\github\\50aftercharacter\\7.0Shortcuts\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 939,
+                        "endColumn": 66,
+                        "endOffset": 1001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 406,
+                    "endColumn": 50,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "D:\\github\\50aftercharacter\\7.0Shortcuts\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1007,
+                        "endColumn": 50,
+                        "endOffset": 1053
+                    }
+                }
+            }
+        ]
+    }
+]
